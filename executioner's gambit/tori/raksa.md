@@ -2,7 +2,7 @@ Raksa
 =====
 * male
 * agricultural supervisor, day shift
-* yellow coat, white muzzle
+* yellow coat, white muzzle, heavy frame
 * uses his position of authority to get laid
 * has grandcubs
 * drinks brandy at work
