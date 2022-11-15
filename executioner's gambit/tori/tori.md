@@ -7,3 +7,4 @@ Investigator Tori
 * walks very slow
 * married to Druka
 * now lives 1522
+* had two silver earrings right ear
